@@ -9,6 +9,10 @@
 ![ReactJs](https://img.shields.io/badge/-ReactJs-cdcdcd?style=for-the-badge&logo=React)
 ![API](https://img.shields.io/badge/-REST&#032;API-cdcdcd?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-cdcdcd?style=for-the-badge&logo=Webpack)
+![VSCode](https://img.shields.io/badge/-VSCode-cdcdcd?style=for-the-badge&logo=VSCode)
+![NPM](https://img.shields.io/badge/-NPM-cdcdcd?style=for-the-badge&logo=NPM)
+![Nodejs](https://img.shields.io/badge/-Nodejs-cdcdcd?style=for-the-badge&logo=Nodejs)
+
 
 
 ### ✉️ Mail me: dr.artem-k@yandex.ru
