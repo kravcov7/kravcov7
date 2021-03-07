@@ -2,8 +2,15 @@
 
 ## I'm beginner *Front-end developer* from Moscow!
 
-### Mail me: dr.artem-k@yandex.ru
-### Telegram: @ametist17
+### Languages and Technologies 
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+
+### ✉️ Mail me: dr.artem-k@yandex.ru
+### 💬 Telegram: @ametist17
 
 <!--
 **kravcov7/kravcov7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
