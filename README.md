@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Hi there, I'm **Artem**!
+
+## I'm beginner *Front-end developer* from Moscow!
+
+### Mail me: dr.artem-k@yandex.ru
+### Telegram: @ametist17
 
 <!--
 **kravcov7/kravcov7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
