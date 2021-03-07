@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm ***Artem***!
+# 👋 Hi there, I'm **Artem**!
 
 ## I'm beginner *Front-end developer* from Moscow!
 - 🔭 I recently completed a course from [Yandex.Praktikum](https://praktikum.yandex.ru/web)!
