@@ -26,7 +26,7 @@
 
 ### 📬 Mail me: dr.artem-k@yandex.ru
 ### 💬 Telegram: @ametist17
-[![telegram](https://img.shields.io/badge/-@bobandmermaid-313131?style=flat-square&labelColor=313131&logo=Telegram&logoColor=white&color=313131)](https://t.me/ametist17) 
+[![telegram](https://img.shields.io/badge/-@ametist17-313131?style=flat-square&labelColor=313131&logo=Telegram&logoColor=white&color=313131)](https://t.me/ametist17) 
 
 <!--
 **kravcov7/kravcov7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
