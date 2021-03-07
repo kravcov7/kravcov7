@@ -9,7 +9,7 @@
 ![ReactJs](https://img.shields.io/badge/-ReactJs-cdcdcd?style=for-the-badge&logo=React)
 ![API](https://img.shields.io/badge/-REST&#032;API-cdcdcd?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-cdcdcd?style=for-the-badge&logo=Webpack)
-![VSCode](https://img.shields.io/badge/-VSCode-cdcdcd?style=for-the-badge&logo=VSCode)
+![VSCode](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png-VSCode-cdcdcd?style=for-the-badge&logo=VSCode)
 ![NPM](https://img.shields.io/badge/-NPM-cdcdcd?style=for-the-badge&logo=NPM)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-cdcdcd?style=for-the-badge&logo=Nodejs)
 
