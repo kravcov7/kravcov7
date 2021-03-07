@@ -3,11 +3,11 @@
 ## I'm beginner *Front-end developer* from Moscow!
 
 ### Languages and Technologies 
-![HTML](https://img.shields.io/badge/-HTML-cdcdcd?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-cdcdcd?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-cdcdcd?style=for-the-badge&logo=JavaScript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-cdcdcd?style=for-the-badge&logo=React)
-![API](https://img.shields.io/badge/-REST&#032;API-cdcdcd?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-fff?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-fff?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=JavaScript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-fff?style=for-the-badge&logo=React)
+![API](https://img.shields.io/badge/-REST&#032;API-fff?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-cdcdcd?style=for-the-badge&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-cdcdcd?style=for-the-badge&logo=NPM)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-cdcdcd?style=for-the-badge&logo=Nodejs)
