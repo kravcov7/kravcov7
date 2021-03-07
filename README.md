@@ -8,6 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-cdcdcd?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-cdcdcd?style=for-the-badge&logo=React)
 ![API](https://img.shields.io/badge/-REST&#032;API-cdcdcd?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/-Webpack-cdcdcd?style=for-the-badge&logo=Webpack)
+
 
 ### ✉️ Mail me: dr.artem-k@yandex.ru
 ### 💬 Telegram: @ametist17
