@@ -24,7 +24,7 @@
 
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kravcov7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kravcov7&show_icons=true)](https://github.com/kravcov7)
 
 ### 💬 [![telegram](https://img.shields.io/badge/-@ametist17-fff?style=flat-square&labelColor=fff&logo=Telegram&logoColor=white&color=fff)](https://t.me/ametist17) 
 
