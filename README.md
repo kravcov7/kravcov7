@@ -2,7 +2,7 @@
 
 ## I'm beginner *Front-end developer* from Moscow!
 - 🔭 I recently completed a course from [Yandex.Praktikum](https://praktikum.yandex.ru/web)!
-- ⚡ I’m currently learning [React](https://reactjs.org/)
+- ⚡ I’m currently learning [React+Redux](https://reactjs.org/)
 - 💻 I’m currently working for a startup and looking for a [job](https://astrakhan.hh.ru/resume/067afed2ff08aafa4c0039ed1f497a5950616c)
 - 🎯 My [codewars profile](https://www.codewars.com/users/ArtemK7)
 
