@@ -29,7 +29,12 @@
 
 ### 💬 [![telegram](https://img.shields.io/badge/-@ametist17-fff?style=flat-square&labelColor=fff&logo=Telegram&logoColor=white&color=fff)](https://t.me/ametist17) 
 
+
 ### Connect with me:
 
-[<img align="left" alt="ametist17" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][https://t.me/ametist17]
-<br />
+[<img align="left" alt="ametist17" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+
+[telegram]: https://t.me/ametist17
+
+
